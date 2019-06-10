@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        ebnam
+        ebnam2
       </h1>
       <h2 class="subtitle">
         My gnarly Nuxt.js project
